@@ -21,6 +21,9 @@
     "outDir": "dist",
     "jsx": "react-jsx",
 
+    /* Compatibility */
+    "allowSyntheticDefaultImports": true,
+
     /* Linting */
     "strict": true,
     "noUnusedLocals": true,

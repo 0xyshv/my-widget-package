@@ -16,6 +16,9 @@
     "emitDeclarationOnly": true,
     "composite": true,
 
+    /* Compatibility */
+    "allowSyntheticDefaultImports": true,
+
     /* Linting */
     "strict": true,
     "noUnusedLocals": true,
